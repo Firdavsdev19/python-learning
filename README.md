@@ -4,7 +4,9 @@ My daily Python learning progress from absolute beginner to AI Agent Engineer.
 
 ## 📁 Structure
 week-1 — First week (basics)
+
 week-2 — Conditionals, numbers
+
 week-3 — Loops
 week-4 — Functions
 projects — Bigger projects
